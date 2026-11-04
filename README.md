@@ -1,5 +1,5 @@
-<!-- BANNER ANIMADO (el texto aparece y desaparece suavemente) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Estudiante%20del%20Tecnol%C3%B3gico%20de%20Antioquia&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hola%2C%20soy%20Alejandro%20%7C%20Desarrollador&descAlignY=60&descSize=20" width="100%"/>
+<!-- BANNER ANIMADO PROPIO -->
+<img src="https://raw.githubusercontent.com/Al3jandro207/Al3jandro207/main/assets/banner.svg" width="100%" alt="Banner animado de Alejandro"/>
 
 <!-- TEXTO QUE SE ESCRIBE SOLO -->
 <div align="center">
@@ -44,18 +44,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Al3jandro207&theme=tokyonight&hide_border=true&border_radius=15" alt="Racha de GitHub" />
-</div>
-
----
-
-## 🐍 Mis contribuciones
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Al3jandro207/Al3jandro207/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Al3jandro207/Al3jandro207/output/github-snake.svg" />
-    <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/Al3jandro207/Al3jandro207/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
