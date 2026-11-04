@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Al3jandro207">GitHub</a> ·
-  <a href="mailto:tu@email.com">Email</a>
+  <a href="1040alejo@gmail.com">Email</a>
 </p>
 
 ## Sobre mí
@@ -21,18 +21,6 @@ siguiente paso son las bases de datos con **MySQL**.
 
 `Python` `Java` `MySQL` `Git`
 
-## Ruta
-
-- [x] Python — fundamentos
-- [ ] Java — programación orientada a objetos
-- [ ] MySQL — consultas y modelado de datos
-- [ ] Primer proyecto publicado
-
-## Ahora
-
-- Practicando Python con ejercicios y scripts pequeños
-- Aprendiendo Java
-- Siguiente objetivo: conectar una app a una base de datos MySQL
 
 ---
 
